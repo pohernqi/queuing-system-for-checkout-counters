@@ -17,4 +17,4 @@ This simulation system can simulate the arrival of customers at checkout counter
 for supermarkets. The system will end when all the customers have arrived at the counter.
 The results of the simulation such as average waiting time of a customer, average
 inter-arrival time, average time spent, average service time for each counter and
-probability of a customer having to wait in a queue, will be evaluated at the end
+probability of a customer having to wait in a queue, will be evaluated at the end.
